@@ -1,3 +1,5 @@
+/*
+
 var isRunning = 1;
 var check_banner = setInterval(function()
 {
@@ -33,3 +35,5 @@ var check_banner = setInterval(function()
         {}
     }
 }, 10);
+
+*/
